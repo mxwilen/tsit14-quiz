@@ -114,6 +114,7 @@
         - **Recovery** (SANS/NIST): Returning to operational stability.
         - **Lessons Learned/Improvement** (all models): Improving future response.
 ---
+
 [Back to Top](#top)
 
 # Module 2 - Preparation
@@ -262,6 +263,7 @@
     
     - **A**: The Chatham House Rule allows participants to use shared information without attributing it to specific speakers, promoting open discussions.
 ---
+
 [Back to Top](#top)
 
 # Module 3 - Filesystem Forensics
@@ -451,6 +453,7 @@
 44. **Q**: What are some of the technical challenges in filesystem forensics?
     - **A**: Challenges include handling encrypted storage, SSD wear-leveling effects, complex filesystem structures, and data recovery from fragmented or damaged storage media.
 ---
+
 [Back to Top](#top)
 
 # Module 4 - Network Forensics
@@ -613,6 +616,7 @@
     
     - **A**: Challenges include encrypted traffic, NAT obscuring sources, high-speed traffic analysis, and identifying anomalous patterns among large datasets.
 ---
+
 [Back to Top](#top)
 
 # Module 5 - Logs and Timeline
@@ -804,6 +808,7 @@
     
     - **A**: Sigma rules define patterns for identifying suspicious events across different log formats, commonly used for automated detection.
 ---
+
 [Back to Top](#top)
 
 # Module 6 - Local Systems Forensics
