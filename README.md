@@ -1,1 +1,1 @@
-# tsit14-quiz
+### Study questions
