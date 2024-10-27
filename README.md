@@ -1,11 +1,11 @@
 <a name="top"></a> <!-- Top anchor -->
 
-- [Module 1 - Intro to DFIR](#module-1---intro-to-dfir)
-- [Module 2 - Preparation](#module-2---preparation)
-- [Module 3 - Filesystem Forensics](#module-3---filesystem-forensics)
-- [Module 4 - Network Forensics](#module-4---network-forensics)
-- [Module 5 - Logs and Timeline](#module-5---logs-and-timeline)
-- [Module 6 - Local Systems Forensics](#module-6---local-systems-forensics)
+> - [Module 1 - Intro to DFIR](#module-1---intro-to-dfir)
+> - [Module 2 - Preparation](#module-2---preparation)
+> - [Module 3 - Filesystem Forensics](#module-3---filesystem-forensics)
+> - [Module 4 - Network Forensics](#module-4---network-forensics)
+> - [Module 5 - Logs and Timeline](#module-5---logs-and-timeline)
+> - [Module 6 - Local Systems Forensics](#module-6---local-systems-forensics)
 
 # Module 1 - Intro to DFIR
 1. **Q**: What is digital forensics?
